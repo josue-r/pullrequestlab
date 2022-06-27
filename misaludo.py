@@ -1,4 +1,4 @@
 nombre = "josue ruiz"
 edad = 37
 
-print("Mi nombre es {} y tengo una edad de {} ".format(nombre,edad))
+print(f"Mi nombre es {nombre} y tengo una edad de {edad} años")
